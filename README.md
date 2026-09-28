@@ -201,4 +201,12 @@ Licencia: MIT
 
 ## Colaborar 
 
+**🇦🇷 Desde Argentina (Mercado Pago):**
+- 💳 Alias MP: `tavo.78.ok`
+- 🔗 CVU: `0000003100099682904311`
+
+**🌎 Desde el exterior (PayPal):**
+- 💙 [paypal.me/GustavoCuevas582](https://paypal.me/GustavoCuevas582)
+
+Con tus donaciones ayudas a que esté proyecto pueda seguir creciendo 
 
