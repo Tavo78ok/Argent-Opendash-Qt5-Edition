@@ -4,13 +4,6 @@
 
 
 ---
-<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 20-48-01" src="https://github.com/user-attachments/assets/80759b19-7d7a-4c29-8925-1ec3b4cd8efe" />
-<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 20-48-21" src="https://github.com/user-attachments/assets/a1da482e-6eed-4b67-884e-775b7cdd6282" />
-<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 20-48-32" src="https://github.com/user-attachments/assets/45e2b2fb-2e34-4530-bd37-48f0ad9425e4" />
-<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 20-48-44" src="https://github.com/user-attachments/assets/ea6dc401-e165-4373-8db9-8ae75eee8c81" />
-<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 20-48-54" src="https://github.com/user-attachments/assets/8604bf1f-7eb8-4879-a7f1-fb447642f6ae" />
-<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 20-49-04" src="https://github.com/user-attachments/assets/ef50d0ec-6473-43cd-9032-6e938f33065c" />
-<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 20-49-16" src="https://github.com/user-attachments/assets/6bcb4099-4816-4bc6-9bb4-be7bba9e93f3" />
 
 
 ## Descripción
