@@ -2,11 +2,6 @@
 
 ### Monitor, Optimizador y Gestor del Sistema — OpenArgentOS Platinum Edition
 
-![Qt5](https://img.shields.io/badge/Qt-5-41cd52?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?style=flat-square)
-![Version](https://img.shields.io/badge/Versión-3.1-purple?style=flat-square)
-![License](https://img.shields.io/badge/Licencia-MIT-lightgrey?style=flat-square)
-![Platform](https://img.shields.io/badge/Plataforma-Cinnamon%20%2F%20Debian-orange?style=flat-square)
 
 ---
 <img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 20-48-01" src="https://github.com/user-attachments/assets/80759b19-7d7a-4c29-8925-1ec3b4cd8efe" />
@@ -35,6 +30,12 @@ Esta versión usa **PyQt5**, con un motor de renderizado completamente independi
 ## Capturas
 
 > Dashboard con ring meters, gráficos históricos, particiones y especificaciones del sistema — corriendo fluido en Cinnamon.
+
+![Qt5](https://img.shields.io/badge/Qt-5-41cd52?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?style=flat-square)
+![Version](https://img.shields.io/badge/Versión-3.1-purple?style=flat-square)
+![License](https://img.shields.io/badge/Licencia-MIT-lightgrey?style=flat-square)
+![Platform](https://img.shields.io/badge/Plataforma-Cinnamon%20%2F%20Debian-orange?style=flat-square)
 
 ---
 
@@ -203,5 +204,9 @@ argent-opendash-qt5
 ## Autor
 
 **Tavo** ([@Tavo78ok](https://github.com/Tavo78ok))
-Proyecto: **OpenArgentOS (Platinum Edition)**
+Proyecto: **OpenArgentOS**
 Licencia: MIT
+
+## Colaborar 
+
+
