@@ -1,8 +1,6 @@
 # Argent Opendash Qt5 — Cinnamon Edition
 
 ### Monitor, Optimizador y Gestor del Sistema — OpenArgentOS Platinum Edition
-
-
 ![Qt5](https://img.shields.io/badge/Qt-5-41cd52?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?style=flat-square)
 ![Version](https://img.shields.io/badge/Versión-3.1-purple?style=flat-square)
