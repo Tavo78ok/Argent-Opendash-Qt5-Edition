@@ -3,6 +3,12 @@
 ### Monitor, Optimizador y Gestor del Sistema — OpenArgentOS Platinum Edition
 
 
+![Qt5](https://img.shields.io/badge/Qt-5-41cd52?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?style=flat-square)
+![Version](https://img.shields.io/badge/Versión-3.1-purple?style=flat-square)
+![License](https://img.shields.io/badge/Licencia-MIT-lightgrey?style=flat-square)
+![Platform](https://img.shields.io/badge/Plataforma-Cinnamon%20%2F%20Debian-orange?style=flat-square)
+
 ---
 
 
@@ -24,11 +30,6 @@ Esta versión usa **PyQt5**, con un motor de renderizado completamente independi
 
 > Dashboard con ring meters, gráficos históricos, particiones y especificaciones del sistema — corriendo fluido en Cinnamon.
 
-![Qt5](https://img.shields.io/badge/Qt-5-41cd52?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?style=flat-square)
-![Version](https://img.shields.io/badge/Versión-3.1-purple?style=flat-square)
-![License](https://img.shields.io/badge/Licencia-MIT-lightgrey?style=flat-square)
-![Platform](https://img.shields.io/badge/Plataforma-Cinnamon%20%2F%20Debian-orange?style=flat-square)
 
 ---
 
