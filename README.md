@@ -1,3 +1,4 @@
+#<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-45-00" src="https://github.com/user-attachments/assets/3ca8d4ff-088e-48c3-bfeb-29d395c2f2c8" />
 # Argent Opendash Qt5 — Cinnamon Edition
 
 ### Monitor, Optimizador y Gestor del Sistema — OpenArgentOS Platinum Edition
@@ -28,6 +29,14 @@ Esta versión usa **PyQt5**, con un motor de renderizado completamente independi
 
 > Dashboard con ring meters, gráficos históricos, particiones y especificaciones del sistema — corriendo fluido en Cinnamon.
 
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-45-00" src="https://github.com/user-attachments/assets/bc6c2c59-2f25-40db-8209-61536d4cd99a" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-45-16" src="https://github.com/user-attachments/assets/2f98836d-1d41-4774-9bf7-9b5d539265a6" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-45-30" src="https://github.com/user-attachments/assets/5d66bf31-1268-49a4-837a-6850bebef2ef" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-45-44" src="https://github.com/user-attachments/assets/9a01c128-2f2e-410f-986b-d37007d1d920" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-45-57" src="https://github.com/user-attachments/assets/75f8de5f-ad0c-4899-b25c-7c721b6992d2" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-46-11" src="https://github.com/user-attachments/assets/4ba5c845-8485-4706-9b0b-1dfd8d1e7211" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-48-58" src="https://github.com/user-attachments/assets/c960efce-f1ed-45a6-8704-3c161bbfc2cb" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-49-14" src="https://github.com/user-attachments/assets/6a535ede-17fb-4c4c-9f2d-cd383cff896e" />
 
 ---
 
