@@ -1,5 +1,4 @@
-#<img width="1440" height="900" alt="Captura de pantalla de 2026-09-30 16-45-00" src="https://github.com/user-attachments/assets/3ca8d4ff-088e-48c3-bfeb-29d395c2f2c8" />
-# Argent Opendash Qt5 — Cinnamon Edition
+## Argent Opendash Qt5 — Cinnamon Edition
 
 ### Monitor, Optimizador y Gestor del Sistema — OpenArgentOS Platinum Edition
 ![Qt5](https://img.shields.io/badge/Qt-5-41cd52?style=flat-square)
